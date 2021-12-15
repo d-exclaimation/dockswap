@@ -1,0 +1,8 @@
+{
+  "current": "release",
+  "swaps": {
+    "build": "./build.swap",
+    "release": "./release.swap",
+    "test": "./test.swap"
+  }
+}
